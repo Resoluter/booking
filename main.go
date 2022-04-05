@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/resoluter/booking/pkg/config"
-	"github.com/resoluter/booking/pkg/handlers"
-	"github.com/resoluter/booking/pkg/render"
+	"github.com/resoluter/booking/internal/config"
+	"github.com/resoluter/booking/internal/handlers"
+	"github.com/resoluter/booking/internal/render"
 )
 
 const portNumber = ":8080"
